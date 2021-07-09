@@ -142,5 +142,5 @@ theme: hexo-theme-3-hexo-master
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: github
-  repo: https://github.com/961948438
-  branch: main
+  repo: https://github.com/961948438/hexosss
+  branch: master
