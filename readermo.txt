@@ -6,7 +6,7 @@
 
 3.hexo g
 
-4.hexo deploy
+4.hexo deploy  /直接拉到仓库也行
 
 5.刷新gitee或者稍等就行
 
