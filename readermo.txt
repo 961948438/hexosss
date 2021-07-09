@@ -1,0 +1,13 @@
+/******写博客的步骤***/
+
+1.hexo new 名称
+
+2.hexo clean
+
+3.hexo g
+
+4.hexo deploy
+
+5.刷新gitee或者稍等就行
+
+6.hexo s
